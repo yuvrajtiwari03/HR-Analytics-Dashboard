@@ -37,11 +37,19 @@ HR-Analytics-Dashboard/
 ---
 
 ## 🔑 Key Insights
-- Attrition is highest among employees with **less than 2 years of service**.  
-- **IT & R&D** show the highest employee satisfaction levels.  
-- Low performance scores correlate strongly with **voluntary attrition**.  
-- Certain departments require **targeted retention strategies**.
-- 
+
+- Overall **Turnover Rate is 33.44%**, indicating a significant retention challenge.  
+- **Average Employee Satisfaction (3.89)** is higher than the **Average Performance Score (2.98)**, showing engagement but possible productivity gaps.  
+- **Average Tenure is very low (0.04 years)**, suggesting high early attrition.  
+- **Production department** has the highest workforce count but also notable terminations (83 employees).  
+- **IT/IS department** shows relatively higher attrition compared to its size.  
+- **Sales team** has a small size but reports visible turnover, requiring focused retention strategies.  
+- **Most terminations (66.5%) are categorized as “N/A-still employed”**, while other reasons include career change, job dissatisfaction, and better pay.  
+- **Hiring peaked in 2014–2016** with declining trends in recent years.  
+- **Attrition is highest in the 25–34 age group**, showing younger employees are at higher risk of leaving.  
+- **Gender distribution** is slightly skewed towards male employees (≈59%).  
+- **Department-wise analysis** reveals IT/IS employees have balanced satisfaction but relatively low performance scores, while Software Engineering shows higher performance but smaller size.  
+
 ---
 
 ## 📌 Future Enhancements
