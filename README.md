@@ -6,11 +6,13 @@ It provides visibility into employee attrition, satisfaction, performance, and d
 
 ---
 
-## 🎯 Project Objectives
-- Track **employee attrition** and retention patterns.  
-- Evaluate **employee satisfaction** across business units.  
-- Measure **performance distribution** across tenure and roles.  
-- Support **strategic HR decision-making** with data-driven insights.  
+## 🎯 Project Objectives  
+
+- Monitor and analyze **employee attrition** and retention trends.  
+- Evaluate **employee satisfaction** levels across departments and roles.  
+- Assess **performance distribution** and its impact on retention and promotions.  
+- Provide **data-driven insights** to support HR strategies and workforce planning.  
+- Build an **interactive dashboard** to simplify HR decision-making.  
 
 ---
 
