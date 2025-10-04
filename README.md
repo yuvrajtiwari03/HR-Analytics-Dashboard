@@ -1,3 +1,5 @@
+# 📊 HR Analytics Dashboard  
+
 ## 🔍 Overview
 The **HR Analytics Dashboard** enables organizations to analyze key workforce metrics and gain actionable insights.  
 It provides visibility into employee attrition, satisfaction, performance, and departmental trends, helping HR leaders make informed decisions to improve workforce engagement and retention.  
